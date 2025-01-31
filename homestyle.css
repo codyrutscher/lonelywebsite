@@ -1,0 +1,60 @@
+
+
+
+.element-neverbelonely-app {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background-color: #ffffff;
+  margin: auto;
+}
+
+.element-neverbelonely-app .group {
+  position: absolute;
+  width: 249px;
+  height: 55px;
+  top: 398px;
+  left: 73px;
+}
+
+.element-neverbelonely-app .overlap-group {
+  position: relative;
+  width: 247px;
+  height: 55px;
+}
+
+.element-neverbelonely-app .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Plantagenet Cherokee-Regular", Helvetica;
+  font-weight: 400;
+  color: #161616;
+  font-size: 38.9px;
+  text-align: center;
+  letter-spacing: -1.56px;
+  line-height: 70.0px;
+  white-space: nowrap;
+}
+
+.element-neverbelonely-app .rectangle {
+  width: 4px;
+  height: 93px;
+  top: 7px;
+  left: 121px;
+  background-color: #9bf6ca;
+  transform: rotate(90.00deg);
+  position: absolute;
+  border-radius: 100px;
+}
+
+.element-neverbelonely-app .div {
+  width: 295px;
+  height: 7px;
+  top: 837px;
+  left: 49px;
+  background-color: #d9d9d9;
+  mix-blend-mode: multiply;
+  position: absolute;
+  border-radius: 100px;
+}

@@ -1,0 +1,259 @@
+.element-neverbelonely-app {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background-color: var(--white);
+  overflow: hidden;
+  margin: auto;
+}
+
+.element-neverbelonely-app .overlap {
+  position: absolute;
+  width: 616px;
+  height: 552px;
+  top: 398px;
+  left: -102px;
+}
+
+.element-neverbelonely-app .div {
+  position: absolute;
+  width: 616px;
+  height: 552px;
+  top: 0;
+  left: 0;
+}
+
+.element-neverbelonely-app .overlap-group {
+  position: relative;
+  height: 552px;
+}
+
+.element-neverbelonely-app .rectangle {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  top: 227px;
+  left: 183px;
+  background-color: var(--green-1);
+  border-radius: 319.45px;
+}
+
+.element-neverbelonely-app .ellipse {
+  position: absolute;
+  width: 57px;
+  height: 17px;
+  top: 475px;
+  left: 64px;
+  background-color: var(--dark-grey-1);
+  border-radius: 28.38px / 8.41px;
+  transform: rotate(9.07deg);
+  opacity: 0.24;
+}
+
+.element-neverbelonely-app .ellipse-2 {
+  position: absolute;
+  width: 57px;
+  height: 17px;
+  top: 481px;
+  left: 147px;
+  background-color: var(--dark-grey-1);
+  border-radius: 28.38px / 8.41px;
+  opacity: 0.24;
+}
+
+.element-neverbelonely-app .group {
+  position: absolute;
+  width: 128px;
+  height: 31px;
+  top: 513px;
+  left: 399px;
+  transform: rotate(180deg);
+}
+
+.element-neverbelonely-app .img {
+  position: absolute;
+  width: 46px;
+  height: 14px;
+  top: -1325px;
+  left: -808px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .ellipse-3 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  top: 14px;
+  left: 83px;
+  background-color: var(--dark-grey-1);
+  border-radius: 22.02px / 6.53px;
+  transform: rotate(-12.46deg);
+  opacity: 0.24;
+}
+
+.element-neverbelonely-app .overlap-group-2 {
+  position: absolute;
+  width: 393px;
+  height: 452px;
+  top: 2px;
+  left: 102px;
+}
+
+.element-neverbelonely-app .vector {
+  position: absolute;
+  width: 40px;
+  height: 19px;
+  top: 302px;
+  left: 120px;
+}
+
+.element-neverbelonely-app .vector-2 {
+  position: absolute;
+  width: 39px;
+  height: 23px;
+  top: 293px;
+  left: 168px;
+}
+
+.element-neverbelonely-app .group-2 {
+  position: absolute;
+  width: 231px;
+  height: 391px;
+  top: 60px;
+  left: 162px;
+}
+
+.element-neverbelonely-app .group-3 {
+  position: absolute;
+  width: 209px;
+  height: 452px;
+  top: 0;
+  left: 0;
+}
+
+.element-neverbelonely-app .group-4 {
+  position: absolute;
+  width: 15px;
+  height: 13px;
+  top: 338px;
+  left: 238px;
+}
+
+.element-neverbelonely-app .group-5 {
+  position: absolute;
+  width: 18px;
+  height: 17px;
+  top: 269px;
+  left: 275px;
+}
+
+.element-neverbelonely-app .rectangle-2 {
+  position: absolute;
+  width: 295px;
+  height: 7px;
+  top: 439px;
+  left: 151px;
+  background-color: var(--grey);
+  border-radius: 100px;
+  mix-blend-mode: multiply;
+}
+
+.element-neverbelonely-app .link-solid-wrapper {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 36px;
+  left: 351px;
+  background-color: var(--green-1);
+  border-radius: 164.5px;
+}
+
+.element-neverbelonely-app .link-solid {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 10px;
+  left: 10px;
+}
+
+.element-neverbelonely-app .overlap-2 {
+  position: absolute;
+  width: 293px;
+  height: 217px;
+  top: 117px;
+  left: 50px;
+}
+
+.element-neverbelonely-app .text-wrapper {
+  position: absolute;
+  width: 293px;
+  top: 74px;
+  left: 0;
+  font-family: "Gotham-Book", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: 22px;
+}
+
+.element-neverbelonely-app .rectangle-3 {
+  position: absolute;
+  width: 4px;
+  height: 93px;
+  top: 3px;
+  left: 144px;
+  background-color: var(--green-1);
+  border-radius: 100px;
+  transform: rotate(90.00deg);
+}
+
+.element-neverbelonely-app .text-wrapper-2 {
+  position: absolute;
+  width: 221px;
+  top: 0;
+  left: 36px;
+  font-family: "Plantagenet Cherokee-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: -0.64px;
+  line-height: 32px;
+}
+
+.element-neverbelonely-app .overlap-wrapper {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 59px;
+  left: 0;
+}
+
+.element-neverbelonely-app .overlap-3 {
+  position: relative;
+  height: 4px;
+}
+
+.element-neverbelonely-app .rectangle-4 {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border: 0.5px solid;
+  opacity: 0.35;
+  border-color: var(--green-1);
+}
+
+.element-neverbelonely-app .rectangle-5 {
+  position: absolute;
+  width: 263px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border-radius: 0px 8px 8px 0px;
+}

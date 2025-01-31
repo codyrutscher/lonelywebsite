@@ -1,0 +1,369 @@
+.element-neverbelonely-app {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background-color: var(--white);
+  overflow: hidden;
+  margin: auto;
+}
+
+.element-neverbelonely-app .rectangle {
+  position: absolute;
+  width: 295px;
+  height: 7px;
+  top: 837px;
+  left: 49px;
+  background-color: var(--grey);
+  border-radius: 100px;
+  mix-blend-mode: multiply;
+}
+
+.element-neverbelonely-app .text-wrapper {
+  position: absolute;
+  width: 249px;
+  top: 110px;
+  left: 72px;
+  font-family: "Plantagenet Cherokee-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: 48px;
+}
+
+.element-neverbelonely-app .div {
+  position: absolute;
+  width: 269px;
+  top: 195px;
+  left: 62px;
+  font-family: "Gotham-Book", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: 22px;
+}
+
+.element-neverbelonely-app .group {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 59px;
+  left: 0;
+}
+
+.element-neverbelonely-app .overlap-group {
+  position: relative;
+  height: 4px;
+}
+
+.element-neverbelonely-app .rectangle-2 {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border: 0.5px solid;
+  opacity: 0.35;
+  border-color: var(--green-1);
+}
+
+.element-neverbelonely-app .rectangle-3 {
+  position: absolute;
+  width: 44px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border-radius: 0px 8px 8px 0px;
+}
+
+.element-neverbelonely-app .overlap {
+  position: absolute;
+  width: 387px;
+  height: 357px;
+  top: 351px;
+  left: 60px;
+}
+
+.element-neverbelonely-app .rectangle-4 {
+  position: absolute;
+  width: 176px;
+  height: 176px;
+  top: 63px;
+  left: 46px;
+  background-color: var(--green-1);
+  border-radius: 164.5px;
+}
+
+.element-neverbelonely-app .modo-de-isolamento {
+  width: 128px;
+  top: 32px;
+  left: 0;
+  transform: rotate(180deg);
+  position: absolute;
+  height: 234px;
+}
+
+.element-neverbelonely-app .overlap-2 {
+  position: relative;
+  height: 234px;
+}
+
+.element-neverbelonely-app .ellipse {
+  position: absolute;
+  width: 27px;
+  height: 8px;
+  top: 4px;
+  left: 83px;
+  background-color: var(--grey);
+  border-radius: 13.5px / 4px;
+}
+
+.element-neverbelonely-app .ellipse-2 {
+  position: absolute;
+  width: 27px;
+  height: 8px;
+  top: 0;
+  left: 31px;
+  background-color: var(--grey);
+  border-radius: 13.5px / 4px;
+}
+
+.element-neverbelonely-app .vector {
+  position: absolute;
+  width: 126px;
+  height: 229px;
+  top: 5px;
+  left: 2px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .img {
+  position: absolute;
+  width: 17px;
+  height: 5px;
+  top: 9px;
+  left: 36px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  top: 12px;
+  left: 87px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-3 {
+  position: absolute;
+  width: 5px;
+  height: 11px;
+  top: 110px;
+  left: 14px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-4 {
+  position: absolute;
+  width: 21px;
+  height: 32px;
+  top: 103px;
+  left: 14px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-5 {
+  position: absolute;
+  width: 117px;
+  height: 96px;
+  top: 134px;
+  left: 7px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-6 {
+  position: absolute;
+  width: 11px;
+  height: 5px;
+  top: 103px;
+  left: 74px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-7 {
+  position: absolute;
+  width: 61px;
+  height: 75px;
+  top: 55px;
+  left: 39px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-8 {
+  position: absolute;
+  width: 6px;
+  height: 11px;
+  top: 168px;
+  left: 32px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-9 {
+  position: absolute;
+  width: 6px;
+  height: 11px;
+  top: 168px;
+  left: 77px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .vector-10 {
+  position: absolute;
+  width: 20px;
+  height: 8px;
+  top: 156px;
+  left: 47px;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .group-2 {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  top: 136px;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.element-neverbelonely-app .group-wrapper {
+  position: absolute;
+  width: 244px;
+  height: 262px;
+  top: 48px;
+  left: 88px;
+  transform: rotate(141.43deg);
+}
+
+.element-neverbelonely-app .overlap-group-wrapper {
+  height: 262px;
+}
+
+.element-neverbelonely-app .overlap-group-2 {
+  position: relative;
+  width: 244px;
+  height: 262px;
+}
+
+.element-neverbelonely-app .modo-de-isolamento-2 {
+  width: 126px;
+  top: 14px;
+  left: 59px;
+  transform: rotate(-141.43deg);
+  position: absolute;
+  height: 234px;
+}
+
+.element-neverbelonely-app .vector-11 {
+  position: absolute;
+  width: 3px;
+  height: 6px;
+  top: 184px;
+  left: 149px;
+  transform: rotate(-141.43deg);
+}
+
+.element-neverbelonely-app .vector-12 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  top: 185px;
+  left: 153px;
+  transform: rotate(-141.43deg);
+}
+
+.element-neverbelonely-app .link-solid-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 195px;
+  left: 269px;
+  background-color: var(--green-1);
+  border-radius: 164.5px;
+  transform: rotate(15.00deg);
+}
+
+.element-neverbelonely-app .link-solid {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 6px;
+  left: 6px;
+  transform: rotate(-15.00deg);
+}
+
+.element-neverbelonely-app .mobile-regular-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 480px;
+  left: 27px;
+  background-color: var(--green-1);
+  border-radius: 164.5px;
+  transform: rotate(-30.00deg);
+}
+
+.element-neverbelonely-app .mobile-regular {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 5px;
+  left: 5px;
+  transform: rotate(30.00deg);
+}
+
+.element-neverbelonely-app .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 8px 8px 32px;
+  position: absolute;
+  top: 748px;
+  left: 64px;
+  background-color: var(--black);
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.element-neverbelonely-app .frame {
+  display: flex;
+  width: 225px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.element-neverbelonely-app .text {
+  position: relative;
+  width: 156px;
+  font-family: "Gotham-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--white);
+  font-size: 18px;
+  letter-spacing: -0.36px;
+  line-height: 18px;
+}
+
+.element-neverbelonely-app .frame-2 {
+  position: relative;
+  flex: 0 0 auto;
+}

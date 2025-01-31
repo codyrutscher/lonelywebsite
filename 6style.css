@@ -1,0 +1,331 @@
+.element-neverbelonely-app {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background-color: var(--white);
+  margin: auto;
+}
+
+.element-neverbelonely-app .iphone-x-pro-dark {
+  position: absolute;
+  width: 375px;
+  height: 44px;
+  top: 0;
+  left: 9px;
+}
+
+.element-neverbelonely-app .iphone-x-pro {
+  position: relative;
+  height: 44px;
+}
+
+.element-neverbelonely-app .right-side {
+  position: absolute;
+  width: 67px;
+  height: 11px;
+  top: 17px;
+  left: 294px;
+}
+
+.element-neverbelonely-app .battery {
+  position: absolute;
+  width: 24px;
+  height: 11px;
+  top: 0;
+  left: 42px;
+}
+
+.element-neverbelonely-app .wifi {
+  position: absolute;
+  width: 15px;
+  height: 11px;
+  top: 0;
+  left: 22px;
+}
+
+.element-neverbelonely-app .mobile-signal {
+  position: absolute;
+  width: 17px;
+  height: 11px;
+  top: 0;
+  left: 0;
+}
+
+.element-neverbelonely-app .left-side {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+  top: 12px;
+  left: 1px;
+}
+
+.element-neverbelonely-app .text-wrapper {
+  position: absolute;
+  width: 265px;
+  top: 110px;
+  left: 64px;
+  font-family: "Plantagenet Cherokee-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: -0.64px;
+  line-height: 32px;
+}
+
+.element-neverbelonely-app .rectangle {
+  position: absolute;
+  width: 295px;
+  height: 7px;
+  top: 837px;
+  left: 49px;
+  background-color: var(--grey);
+  border-radius: 100px;
+  mix-blend-mode: multiply;
+}
+
+.element-neverbelonely-app .group {
+  position: absolute;
+  width: 273px;
+  height: 76px;
+  top: 490px;
+  left: 62px;
+}
+
+.element-neverbelonely-app .div {
+  position: absolute;
+  width: 245px;
+  top: 0;
+  left: 12px;
+  font-family: "Gotham-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: -0.40px;
+  line-height: 20px;
+}
+
+.element-neverbelonely-app .p {
+  position: absolute;
+  width: 269px;
+  top: 26px;
+  left: 0;
+  font-family: "Gotham-Book", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+}
+
+.element-neverbelonely-app .overlap-group-wrapper {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 59px;
+  left: 0;
+}
+
+.element-neverbelonely-app .overlap-group {
+  position: relative;
+  height: 4px;
+}
+
+.element-neverbelonely-app .rectangle-2 {
+  position: absolute;
+  width: 393px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border: 0.5px solid;
+  opacity: 0.35;
+  border-color: var(--green-1);
+}
+
+.element-neverbelonely-app .rectangle-3 {
+  position: absolute;
+  width: 218px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border-radius: 0px 8px 8px 0px;
+}
+
+.element-neverbelonely-app .overlap {
+  position: absolute;
+  width: 184px;
+  height: 187px;
+  top: 267px;
+  left: 96px;
+}
+
+.element-neverbelonely-app .rectangle-4 {
+  position: absolute;
+  width: 137px;
+  height: 137px;
+  top: 30px;
+  left: 32px;
+  background-color: var(--green-1);
+  border-radius: 164.5px;
+}
+
+.element-neverbelonely-app .img {
+  position: absolute;
+  width: 80px;
+  height: 94px;
+  top: 0;
+  left: 101px;
+}
+
+.element-neverbelonely-app .vector {
+  position: absolute;
+  width: 8px;
+  height: 4px;
+  top: 112px;
+  left: 110px;
+}
+
+.element-neverbelonely-app .vector-2 {
+  position: absolute;
+  width: 7px;
+  height: 6px;
+  top: 93px;
+  left: 83px;
+}
+
+.element-neverbelonely-app .vector-3 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 7px;
+  left: 178px;
+}
+
+.element-neverbelonely-app .overlap-wrapper {
+  position: absolute;
+  width: 108px;
+  height: 102px;
+  top: 85px;
+  left: 0;
+}
+
+.element-neverbelonely-app .overlap-2 {
+  position: relative;
+  width: 112px;
+  height: 107px;
+  top: -2px;
+  left: -2px;
+}
+
+.element-neverbelonely-app .group-2 {
+  position: absolute;
+  width: 16px;
+  height: 18px;
+  top: 56px;
+  left: 13px;
+}
+
+.element-neverbelonely-app .ellipse {
+  position: absolute;
+  width: 93px;
+  height: 86px;
+  top: 11px;
+  left: 9px;
+  border-radius: 46.73px / 42.76px;
+  border: 2px solid;
+  border-color: var(--black);
+  transform: rotate(165.00deg);
+}
+
+.element-neverbelonely-app .vector-4 {
+  position: absolute;
+  width: 10px;
+  height: 9px;
+  top: 32px;
+  left: 143px;
+}
+
+.element-neverbelonely-app .vector-5 {
+  position: absolute;
+  width: 28px;
+  height: 33px;
+  top: 62px;
+  left: 80px;
+}
+
+.element-neverbelonely-app .vector-6 {
+  position: absolute;
+  width: 41px;
+  height: 11px;
+  top: 106px;
+  left: 98px;
+}
+
+.element-neverbelonely-app .vector-7 {
+  position: absolute;
+  width: 5px;
+  height: 7px;
+  top: 253px;
+  left: 215px;
+}
+
+.element-neverbelonely-app .vector-8 {
+  position: absolute;
+  width: 5px;
+  height: 7px;
+  top: 245px;
+  left: 240px;
+}
+
+.element-neverbelonely-app .vector-9 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 255px;
+  left: 248px;
+}
+
+.element-neverbelonely-app .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 8px 8px 32px;
+  position: absolute;
+  top: 748px;
+  left: 64px;
+  background-color: var(--black);
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.element-neverbelonely-app .frame {
+  display: flex;
+  width: 225px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.element-neverbelonely-app .text {
+  position: relative;
+  width: 156px;
+  font-family: "Gotham-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--white);
+  font-size: 18px;
+  letter-spacing: -0.36px;
+  line-height: 18px;
+}
+
+.element-neverbelonely-app .frame-2 {
+  position: relative;
+  flex: 0 0 auto;
+}

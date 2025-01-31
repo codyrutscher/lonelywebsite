@@ -1,0 +1,220 @@
+.element-neverbelonely-app {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background-color: var(--white);
+  overflow: hidden;
+  margin: auto;
+}
+
+.element-neverbelonely-app .overlap {
+  position: absolute;
+  width: 448px;
+  height: 484px;
+  top: 329px;
+  left: -32px;
+}
+
+.element-neverbelonely-app .rectangle {
+  position: absolute;
+  width: 310px;
+  height: 310px;
+  top: 0;
+  left: 0;
+  background-color: var(--green-1);
+  border-radius: 563.29px;
+}
+
+.element-neverbelonely-app .mask-group {
+  position: absolute;
+  width: 375px;
+  height: 402px;
+  top: 26px;
+  left: 72px;
+}
+
+.element-neverbelonely-app .overlap-group {
+  position: relative;
+  width: 354px;
+  height: 410px;
+}
+
+.element-neverbelonely-app .ellipse {
+  position: absolute;
+  width: 281px;
+  height: 258px;
+  top: 121px;
+  left: 44px;
+  border-radius: 140.67px / 128.8px;
+  border: 7px solid;
+  border-color: var(--black);
+  transform: rotate(165.00deg);
+}
+
+.element-neverbelonely-app .img {
+  position: absolute;
+  width: 353px;
+  height: 402px;
+  top: 0;
+  left: 0;
+}
+
+.element-neverbelonely-app .group {
+  position: absolute;
+  width: 47px;
+  height: 53px;
+  top: 280px;
+  left: 125px;
+}
+
+.element-neverbelonely-app .overlap-wrapper {
+  position: absolute;
+  width: 108px;
+  height: 102px;
+  top: 96px;
+  left: 55px;
+}
+
+.element-neverbelonely-app .div {
+  position: relative;
+  width: 112px;
+  height: 107px;
+  top: -2px;
+  left: -2px;
+}
+
+.element-neverbelonely-app .group-2 {
+  position: absolute;
+  width: 16px;
+  height: 18px;
+  top: 56px;
+  left: 13px;
+}
+
+.element-neverbelonely-app .ellipse-2 {
+  width: 93px;
+  height: 86px;
+  top: 11px;
+  left: 9px;
+  border-radius: 46.73px / 42.76px;
+  position: absolute;
+  border: 2px solid;
+  border-color: var(--black);
+  transform: rotate(165.00deg);
+}
+
+.element-neverbelonely-app .overlap-group-wrapper {
+  position: absolute;
+  width: 38px;
+  height: 36px;
+  top: 78px;
+  left: 323px;
+}
+
+.element-neverbelonely-app .overlap-2 {
+  position: relative;
+  width: 43px;
+  height: 41px;
+  top: -2px;
+  left: -2px;
+}
+
+.element-neverbelonely-app .group-3 {
+  position: absolute;
+  width: 6px;
+  height: 7px;
+  top: 21px;
+  left: 6px;
+}
+
+.element-neverbelonely-app .ellipse-3 {
+  width: 36px;
+  height: 33px;
+  top: 4px;
+  left: 4px;
+  border-radius: 17.75px / 16.36px;
+  position: absolute;
+  border: 2px solid;
+  border-color: var(--black);
+  transform: rotate(165.00deg);
+}
+
+.element-neverbelonely-app .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 8px 8px 32px;
+  position: absolute;
+  top: 419px;
+  left: 96px;
+  background-color: var(--black);
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.element-neverbelonely-app .frame {
+  display: flex;
+  width: 225px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.element-neverbelonely-app .text {
+  position: relative;
+  width: 156px;
+  font-family: "Gotham-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--white);
+  font-size: 18px;
+  letter-spacing: -0.36px;
+  line-height: 18px;
+}
+
+.element-neverbelonely-app .frame-2 {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.element-neverbelonely-app .rectangle-2 {
+  position: absolute;
+  width: 295px;
+  height: 7px;
+  top: 837px;
+  left: 49px;
+  background-color: var(--grey);
+  border-radius: 100px;
+  mix-blend-mode: multiply;
+}
+
+.element-neverbelonely-app .text-wrapper {
+  position: absolute;
+  width: 249px;
+  top: 110px;
+  left: 72px;
+  font-family: "Plantagenet Cherokee-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: 48px;
+}
+
+.element-neverbelonely-app .let-s-kickstart-your {
+  position: absolute;
+  width: 217px;
+  top: 243px;
+  left: 88px;
+  font-family: "Gotham-Book", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: 22px;
+}
